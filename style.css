@@ -17,7 +17,13 @@
 {
    color: blue;
 }
+
 .top_play a:hover img {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+.top_apk a:hover img {
   transform: scale(1.1);
   transition: 0.3s;
 }
